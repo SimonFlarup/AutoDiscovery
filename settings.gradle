@@ -1,0 +1,6 @@
+rootProject.name = 'AutoDiscovery'
+include 'autodiscovery-common'
+include 'autodiscovery-server'
+include 'autodiscovery-client'
+
+
